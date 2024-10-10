@@ -49,7 +49,7 @@ This project utilizes several Python libraries that are typically pre-installed 
 If you are running this project in an environment where these libraries are not pre-installed, you can install them using:
 
 ```bash
-pip install pandas numpy matplotlib seaborn sqlalchemy
+pip install pandas numpy matplotlib seaborn 
 ```
 
 
